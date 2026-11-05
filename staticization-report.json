@@ -1,0 +1,36 @@
+{
+  "ok": true,
+  "project": "project-14004010",
+  "generated_at": "2026-09-18 01:10:18",
+  "chrome": "E:\\playwright-browsers\\chromium-1187\\chrome-win\\chrome.exe",
+  "routes": [
+    "/",
+    "/about",
+    "/contact",
+    "/faq",
+    "/guide",
+    "/guide/can-yu-re-dian-tao-lun-qian-de-san-jian-shi",
+    "/guide/chi-gua-chang-jian-wu-qu",
+    "/guide/mei-tian-shi-wu-fen-zhong-de-yue-du-an-pai",
+    "/guide/ru-he-pan-duan-xin-xi-ke-xin-du",
+    "/guide/xin-shou-shang-shou-lu-xian",
+    "/hot",
+    "/hot/duan-ju-pinglun-qu-cheng-wei-xin-gua-tian",
+    "/hot/si-tiao-kuai-su-he-shi-re-dian-xin-xi",
+    "/hot/wei-shen-me-da-jia-dou-ai-chi-gua",
+    "/hot/yi-zhou-redian-zong-lan",
+    "/hot/yu-le-re-dian-chuan-bo-de-san-ci-zhuan-xiang",
+    "/review",
+    "/review/geng-xin-su-du-qi-tian-ji-lu",
+    "/review/ji-lei-chi-gua-ping-tai-heng-xiang-dui-bi",
+    "/review/nei-rong-zhi-liang-zen-me-yang",
+    "/review/shou-ye-ti-yan-chai-jie",
+    "/review/zhi-bu-zhi-de-chang-shi-dun-shou",
+    "/search"
+  ],
+  "route_count": 23,
+  "missing_assets": [],
+  "warnings": [
+    "缺失的非关键本地资源：/vite.svg"
+  ]
+}
